@@ -7,9 +7,7 @@ Spring of 2021
 """
 
 """
-NOTE: 
-Due to time constraints I only had time to write a few Unit tests for the new methods created,
- although there are not as many as before. 
+TODO: write more unit tests if neccessary
 """
 
 """
