@@ -2,4 +2,4 @@
 *.db
 
 # ignore everything in __pycache__
-__pycache__* 
+__pycache__/
